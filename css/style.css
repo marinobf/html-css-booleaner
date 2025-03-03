@@ -26,6 +26,10 @@ address{
   color: rgb(155, 154, 154);
   margin-left: 15px;
 }
+time{
+  padding-left: 15px;
+  color: rgb(155, 154, 154);;
+}
 
 a{
   text-decoration: none;
@@ -65,4 +69,30 @@ th,td {
 }
 .left{
   padding-right: 100px;
+}
+
+.monitor{
+  background-image: url(../img/monitor.jpg);
+  height: 200px;
+  width: 300px;
+  background-repeat: no-repeat;
+  font-size: 30px;
+  color: aliceblue;
+  text-align: center;
+  
+  
+}
+.monitor2{
+  background-image: url(../img/graph.jpg);
+  height: 200px;
+  width: 300px;
+  background-repeat: no-repeat;
+  font-size: 30px;
+  color: aliceblue;
+  text-align: center;
+  
+}
+h2{
+ color: rgb(155, 154, 154);
+ padding-bottom: 1px;
 }
