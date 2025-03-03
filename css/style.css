@@ -4,20 +4,22 @@ body {
 }
 
 .logo{
-  height: 200px;
+  height: 100px;
   background-color: #4ea0ff;
   background-image: url(../img/pattern.png) ;
-  background-size: 800px;
+  background-size: 400px;
   background-repeat: repeat;
+
 }
 h1{
   margin-left: 15px;
+  margin-bottom: 0;
 }
 
 .logo-principale {
-  width: 300px;
-  padding-top: 110px;
-  padding-left: 20px;
+  width: 200px;
+  padding-top: 40px;
+  padding-left: 15px;
 }
 
 address{
@@ -62,6 +64,9 @@ table{
   border-collapse: collapse;
   
 }
+th{
+  color: aliceblue;
+}
 
 th,td {
   padding: 10px;
@@ -79,6 +84,8 @@ th,td {
   font-size: 30px;
   color: aliceblue;
   text-align: center;
+  margin-top: 10px;
+  margin-bottom: 0;
   
   
 }
@@ -90,9 +97,11 @@ th,td {
   font-size: 30px;
   color: aliceblue;
   text-align: center;
+  margin-top: 10px;
   
 }
 h2{
  color: rgb(155, 154, 154);
  padding-bottom: 1px;
+ margin-bottom: 0;
 }
