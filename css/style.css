@@ -1,0 +1,62 @@
+body {
+  background-color: white;
+  margin: 0;
+}
+
+.logo{
+  height: 200px;
+  background-color: #4ea0ff;
+  background-image: url(../img/pattern.png) ;
+  background-size: 800px;
+  background-repeat: repeat;
+}
+h1{
+  margin-left: 15px;
+}
+
+.logo-principale {
+  width: 300px;
+  padding-top: 110px;
+  padding-left: 20px;
+}
+
+address{
+  font-style: normal;
+  font-size: 20px;
+  color: rgb(155, 154, 154);
+  margin-left: 15px;
+}
+
+a{
+  text-decoration: none;
+  color: rgb(90 176 218);
+  font-size: 23PX;
+}
+
+figure{
+  margin-left: 15px;
+}
+
+main{
+  margin-left: 15px;
+}
+ul{
+  padding-left: 19px;
+  padding-top: 20px;
+}
+
+.table-blu{
+  background-color: #1cace2;
+}
+.table-he{
+  background-color: #b1e6f2;
+}
+
+table{
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,td {
+  border: 1px solid black;
+}
